@@ -12,6 +12,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "docs/dmnpcs.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/dmnpcs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "docs/introduction.md",
       "output": {
         ".html": {
